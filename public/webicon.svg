@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000026131906104770560170000011881086185688123546_);}
+	.st1{fill:#D9D9D9;}
+</style>
+<path d="M139.9,7.2h220.2c73.3,0,132.7,59.4,132.7,132.7v220.2c0,73.3-59.4,132.7-132.7,132.7H139.9c-73.3,0-132.7-59.4-132.7-132.7
+	V139.9C7.2,66.6,66.6,7.2,139.9,7.2z"/>
+<g transform="matrix(1, 0, 0, 1, 102, 101)">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-27.4" y="-25.3" width="207.6" height="348.7"/>
+		</defs>
+		<clipPath id="SVGID_00000001640391718422550570000004598445013563414160_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000001640391718422550570000004598445013563414160_);">
+			<g>
+				<g transform="translate(1.243182, 129.635063)">
+					<g>
+						<path class="st1" d="M164.3,64.9h10.1v41.4h-99V64.9h15.1l-4-20.2H52.1l-4,20.2h15.1v41.4h-86.4V64.9H-13L29.7-90.2h92
+							L164.3,64.9z M57.7,17.9h23.2L70.6-32.4H68L57.7,17.9z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(168.604885, 231.025826)">
+		<g>
+			<path d="M247.3-38.9h-12.6v-9.5h9.5V65.3h-9.5v-9.5h22.1v60.4H142.4V55.8H164v9.5h-9.5V23.6h9.5v9.5h-35.4v-9.5h9.5v41.7h-9.5
+				v-9.5h21.6v60.4H35.8V55.8h22.1v9.5h-9.5V-48.4h9.5v9.5H35.8v-60.4h114.4v60.4h-21.6v-9.5h9.5V-10h-9.5v-9.5H164v9.5h-9.5v-38.4
+				h9.5v9.5h-21.6v-60.4h114.4v60.4H247.3z M247.3-57.9v9.5h-9.5v-41.4h9.5v9.5h-95.5v-9.5h9.5v41.4h-9.5v-9.5h21.6v57.3h-54.3
+				v-57.3h21.6v9.5h-9.5v-41.4h9.5v9.5H45.3v-9.5h9.5v41.4h-9.5v-9.5h22.1V74.8H45.3v-9.5h9.5v41.4h-9.5v-9.5h95.5v9.5h-9.5V65.3
+				h9.5v9.5h-21.6V14.1h54.3v60.6h-21.6v-9.5h9.5v41.4h-9.5v-9.5h95.5v9.5h-9.5V65.3h9.5v9.5h-22.1V-57.9H247.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(168.604885, 231.025826)">
+		<g>
+			<path class="st1" d="M247.3-48.4h-12.6V65.3h12.6v41.4h-95.5V65.3H164V23.6h-35.4v41.7h12.1v41.4H45.3V65.3h12.6V-48.4H45.3
+				v-41.4h95.5v41.4h-12.1V-10H164v-38.4h-12.1v-41.4h95.5V-48.4z"/>
+		</g>
+	</g>
+</g>
+</svg>
